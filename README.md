@@ -1,4 +1,3 @@
-# PythonProjects
-Projects developed with Python
+# Python projects for the blog
 
-Projects are developed using either an ide (spyder or pycharm) or the jupyter notebook.
+Project developed with jupyter notebook for my blog
